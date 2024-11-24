@@ -13,6 +13,12 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 - [Map 1 Demo](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
 - [Map 2 Demo](https://youtu.be/GQODAAfSKQY): Another Unreal Engine map showcasing my level design skills.
 
+## Creative Works
+- **[A Vibrant Life](https://drive.google.com/file/d/1iqhhlrDHMhrJuUQo3DLyqb9Sb14Js99V/view?usp=sharing)**: A delightful story for young readers, showcasing my creativity and storytelling skills.
+
+### Children's Book
+As part of my creative pursuits, I wrote a children's book titled *A Vibrant Life*. The story focuses on the grief of loss and to appreciate the precious things that you have. It is designed for readers aged 5-12. This project reflects my ability to create engaging, imaginative content for younger audiences.
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/roxythe-harding/)
 - [Email](mailto:roxythelharding@gmail.com)
