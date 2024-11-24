@@ -15,7 +15,7 @@ While working in the Air Force, I refined my skills in **communication, teamwork
 ## Education
 - **B.S. in Psychology** from Michigan State University.
 - Currently pursuing a **B.S. in Game Development** at Full Sail University through an accelerated program (9 months completed out of 24).
-![Programming Related Grades](./Media/Grades.png)
+![Programming Related Grades](./Media/Grades.PNG)
 ---
 
 ## Personal Background
