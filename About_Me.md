@@ -1,5 +1,5 @@
 # About Me
-![Airforce Graduation](./Service.jpg)
+![Airforce Graduation](./Media/Service.jpg)
 Over the years, I have gained work experience from a wide variety of industries while pursuing education to improve myself. During my time at **Dave & Busters**, I was recognized for my work with the **MVP Rookie award** for my diligence and strong work ethic no matter what position I was placed in during my first year's work. Throughout my time in the service industry, I learned the importance of **adaptability, customer service, and multi-tasking**. My supervisors frequently referred to me as a **low-maintenance employee with high self-efficiency**. They knew that if I was told to perform a task, they could be sure it would be completed quickly and satisfactorily, meeting or exceeding their standards. After learning of my responsibilities, I would complete all my tasks without the need for oversight.
 
 During my time in the **United States Air Force**, I received multiple commendations and awards for my exemplary work:
