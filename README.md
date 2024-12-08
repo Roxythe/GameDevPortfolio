@@ -45,6 +45,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Git and GitHub
 - Visual Studio
 - wxWidgets
+- SFML
 
 ## Soft Skills
 - Leadership and teamwork
