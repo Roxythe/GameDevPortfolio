@@ -1,4 +1,4 @@
-# Roxythe Harding's Portfolio
+# Roxythe (Rocky) Harding's Portfolio
 Welcome to my portfolio repository! Here, you’ll find an overview of my skills, projects, and achievements as I pursue a career in game development and software engineering.
 
 ## About Me
