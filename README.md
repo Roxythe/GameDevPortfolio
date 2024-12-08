@@ -13,6 +13,9 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 ## Media
 - [Map 1 Demo](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
 - [Map 2 Demo](https://youtu.be/GQODAAfSKQY): Another Unreal Engine map showcasing my level design skills.
+- [Calculator App Demo](https://youtube.com/shorts/52UYw7cDynw?feature=share): Short showcase demo of my calculator app.
+- [Game of Life App Demo](https://youtube.com/shorts/NMT-eRCL6Uo?feature=share): Short showcase demo of my Game of Life app.
+- [Random Level Generator App Demo](https://youtu.be/iyXms6ZvKIk): Short showcase demo of my Random Level Generator app.
 
 ## Creative Works
 
