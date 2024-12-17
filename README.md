@@ -21,7 +21,8 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 
 ### Game Pitch
 - **[Sinful](https://drive.google.com/file/d/1vynmTaQE3kLal942TclcBb1cu3SBnk-d/view?usp=sharing)**: A game pitch I crafted demonstrating my creativity and flexible skillset.
-As one of my class assignments I was asked to creat a pitch and proposal for a new game. *Sinful* is a fantasy RPG with roguelite mechanics and a turn-based combat system. The story centers around a fledling demon with dreams of becoming the next overlord of sin. The games targeted demographic is gamers 13-28 who enjoy challenging gameplay where choices throughout the game have a dramatic impact on the storyline.
+As one of my class assignments I was asked to creat a pitch and proposal for a new game. *Sinful* is a fantasy RPG with roguelite mechanics and a turn-based combat system. The story centers around a fledling demon with dreams of becoming the next overlord of sin. The games targeted demographic is gamers 13-28 who enjoy challenging gameplay where choices throughout the game have a dramatic impact on the storyline. Mid-Fidelity protoype screens made with Figma.
+![Main Screen](./Media/Main_Screen.PNG) ![Settings Screen](./Media/Settings.PNG)
 
 ### Childrens Book
 - **[A Vibrant Life](https://drive.google.com/file/d/1iqhhlrDHMhrJuUQo3DLyqb9Sb14Js99V/view?usp=sharing)**: A delightful story for young readers, showcasing my creativity and storytelling skills.
