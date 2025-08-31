@@ -6,12 +6,14 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 [Read More](./About_Me.md)
 
 ## Featured Projects
+- [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API.
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
 - [Game of Life](https://github.com/Roxythe/GameOfLife): A simulation of Conway's Game of Life, showcasing algorithm implementation in C++.
 - [Calculator App](https://github.com/Roxythe/Calculator_App): A basic calculator application using wxWidgets in C++.
 - [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter game made with Unity. *Still in development*
 
 ## Media
+- [Arcane Invaders Demo](https://youtu.be/6Tyz5VY1B9U): A short demo of my game Arcane Invaders, a reskin of the classic Space Invaders.
 - [Map 1 Demo](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
 - [Map 2 Demo](https://youtu.be/GQODAAfSKQY): Another Unreal Engine map showcasing my level design skills.
 - [Calculator App Demo](https://youtube.com/shorts/52UYw7cDynw?feature=share): Short showcase demo of my calculator app.
@@ -53,3 +55,4 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
