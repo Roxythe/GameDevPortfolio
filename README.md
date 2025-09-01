@@ -6,7 +6,7 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 [Read More](./About_Me.md)
 
 ## Featured Projects
-- [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API. \n
+- [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API.
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): Download link for the current build of Arcane Invaders on Itch.io
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
 - [Game of Life](https://github.com/Roxythe/GameOfLife): A simulation of Conway's Game of Life, showcasing algorithm implementation in C++.
@@ -40,22 +40,35 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 
 ## Programming Languages
 - C++
+- C#
+- MySQL
+- Java
 
 ## Game Development
 - Unreal Engine (self-taught)
+- Unity Engine
 - Level Design
 - Visual Scripting
 
 ## Tools
 - Git and GitHub
+- Jira
 - Visual Studio
 - wxWidgets
 - SFML
+- Vulkan API
+- Gateware
+- ENTT
+
+## Project Management Methodologies
+- Experience with Waterfall
+- Experience with AGILE
 
 ## Soft Skills
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
