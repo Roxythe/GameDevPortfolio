@@ -16,12 +16,14 @@ While working in the Air Force, I refined my skills in **communication, teamwork
 
 ## Education
 - **B.S. in Psychology** from Michigan State University.
-- Currently pursuing a **B.S. in Game Development** at Full Sail University through an accelerated program (9 months completed out of 24).
+- Currently pursuing a **B.S. in Game Development** at Full Sail University through an accelerated program with a projected graduation date of April 2026.
 ![Programming Related Grades](./Media/Grades.PNG)
 ---
 
 ## Personal Background
-- **Avid Gamer**: I've been gaming since I was 5 years old.
+- **Avid Gamer**: I've been playing video games since I was 5 years old on the original Nintendo Entertainment System (NES).
 - **Technical Skills**:
-  - Experience with **C++ programming**.
+  - Experience with **C++, C#, My SQL, and Java coding language**.
   - Self-taught in **Unreal Engine**.
+  - Self-taught in **Unity Engine**.
+
