@@ -17,6 +17,7 @@ While working in the Air Force, I refined my skills in **communication, teamwork
 ## Education
 - **B.S. in Psychology** from Michigan State University.
 - Currently pursuing a **B.S. in Game Development** at Full Sail University through an accelerated program with a projected graduation date of April 2026.
+
 ![Programming Related Grades](./Media/Grades.PNG)
 ---
 
@@ -26,4 +27,5 @@ While working in the Air Force, I refined my skills in **communication, teamwork
   - Experience with **C++, C#, My SQL, and Java coding language**.
   - Self-taught in **Unreal Engine**.
   - Self-taught in **Unity Engine**.
+
 
