@@ -23,9 +23,17 @@ While working in the Air Force, I refined my skills in **communication, teamwork
 
 ## Personal Background
 - **Avid Gamer**: I've been playing video games since I was 5 years old on the original Nintendo Entertainment System (NES).
+- Thousands of hours spent playing video games over my lifetime ranging from RPG's, first/third person shooters, turn-based and real time strategy games, roguelites, and some sport and racing games. If you can name a genre I can guarntee that I have played at least one game that falls under that category.
+
+- Top 3 all time favorite games
+  - Tales of Vesperia
+  - Blitz The League II
+  - World of Warcraft: Wrath of The Lich King Expansion
+  
 - **Technical Skills**:
   - Experience with **C++, C#, My SQL, and Java coding language**.
   - Self-taught in **Unreal Engine**.
   - Self-taught in **Unity Engine**.
+
 
 
