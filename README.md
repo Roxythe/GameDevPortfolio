@@ -5,6 +5,10 @@ Welcome to my portfolio repository! Here, you’ll find an overview of my skills
 Over the years, I’ve gained experience in various industries while pursuing education to refine my skills. From earning commendations in the U.S. Air Force to developing maps in Unreal Engine, I’m committed to excelling in my field.
 [Read More](./About_Me.md)
 
+Experienced and avid video game player. I have been playing video games since I was 5 years old and have owned/played every video game system since the original NES. I play games from every genre but I would say my favorites are generally RPG/JRPGs. I have over 10,000 hours played on my steam account alone which doesn't factor in any of the time spent on the other consoles I've owned over my life time or even the thousands of hours I've spent on games like World of Warcraft, Overwatch, or Hearthstone.
+
+![Settings Screen](./Media/SteamAccount.PNG)
+
 ## Featured Projects
 - [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API.
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): Download link for the current build of Arcane Invaders on Itch.io
@@ -72,6 +76,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
