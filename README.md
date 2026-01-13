@@ -21,6 +21,10 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 - [Game of Life App Demo](https://youtube.com/shorts/NMT-eRCL6Uo?feature=share): Short showcase demo of my Game of Life app.
 - [Random Level Generator App Demo](https://youtu.be/iyXms6ZvKIk): Short showcase demo of my Random Level Generator app.
 
+## Links
+- [Personal Game Studio YouTube](https://www.youtube.com/@RockHardAmusement): A link to my personal game dev studio's YouTube channel showing first look developments on my current projects.
+- [Personal Game Studio itch.io](https://rockhardamusement.itch.io/): A link to my personal game dev studio's Itch.io page with my currently published games. 
+
 ## Creative Works
 
 ### Game Pitch
@@ -68,6 +72,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
