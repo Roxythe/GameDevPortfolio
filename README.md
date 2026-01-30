@@ -10,12 +10,13 @@ Experienced and avid video game player. I have been playing video games since I 
 ![Settings Screen](./Media/SteamAccount.PNG)
 
 ## Featured Projects
+- [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): This is my most recent project. It is a Puzzle-Arcade sorting game that was made with two classmates in Unreal Engine 5.6. *Still in development*
 - [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API.
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): Download link for the current build of Arcane Invaders on Itch.io
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
 - [Game of Life](https://github.com/Roxythe/GameOfLife): A simulation of Conway's Game of Life, showcasing algorithm implementation in C++.
 - [Calculator App](https://github.com/Roxythe/Calculator_App): A basic calculator application using wxWidgets in C++.
-- [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter game made with Unity. *Still in development*
+- [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter game made with Unity.
 
 ## Media
 - [Arcane Invaders Demo](https://youtu.be/6Tyz5VY1B9U): A short demo of my game Arcane Invaders, a reskin of the classic Space Invaders.
@@ -76,6 +77,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
