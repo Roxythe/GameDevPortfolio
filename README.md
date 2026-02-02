@@ -11,6 +11,7 @@ Experienced and avid video game player. I have been playing video games since I 
 
 ## Featured Projects
 - [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): This is my most recent project. It is a Puzzle-Arcade sorting game that was made with two classmates in Unreal Engine 5.6. *Still in development*
+- [Tetrabeasts](https://github.com/Roxythe/Tetrabeasts): An ongoing solo project in devleopment. Tetrabeasts is a Puzzle-Arcade roguelite with tetris base mechanics that I have been building up in my free time as a passion project using Unity *Still in development*
 - [Arcane Invaders](https://github.com/Roxythe/ArcaneInvaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API.
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): Download link for the current build of Arcane Invaders on Itch.io
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
@@ -28,22 +29,22 @@ Experienced and avid video game player. I have been playing video games since I 
 
 ## Links
 - [Personal Game Studio YouTube](https://www.youtube.com/@RockHardAmusement): A link to my personal game dev studio's YouTube channel showing first look developments on my current projects.
-- [Personal Game Studio itch.io](https://rockhardamusement.itch.io/): A link to my personal game dev studio's Itch.io page with my currently published games. 
+- [Personal Game Studio itch.io](https://rockhardamusement.itch.io/): A link to my personal game dev studio's Itch.io page with my currently published and in development game projects. 
 
 ## Creative Works
 
 ### Game Pitch
-- **[Sinful](https://drive.google.com/file/d/1vynmTaQE3kLal942TclcBb1cu3SBnk-d/view?usp=sharing)**: A game pitch I crafted demonstrating my creativity and flexible skillset.
+- **[Sinful](./Media/Sinful_Pitch_and_Proposal.pdf)**: A game pitch I crafted demonstrating my creativity and flexible skillset.
 As one of my class assignments I was asked to creat a pitch and proposal for a new game. *Sinful* is a fantasy RPG with roguelite mechanics and a turn-based combat system. The story centers around a fledling demon with dreams of becoming the next overlord of sin. The games targeted demographic is gamers 13-28 who enjoy challenging gameplay where choices throughout the game have a dramatic impact on the storyline. Mid-Fidelity protoype screens made with Figma.
 ![Main Screen](./Media/Main_Screen.PNG) ![Settings Screen](./Media/Settings.PNG)
 
 ### Childrens Book
-- **[A Vibrant Life](https://drive.google.com/file/d/1iqhhlrDHMhrJuUQo3DLyqb9Sb14Js99V/view?usp=sharing)**: A delightful story for young readers, showcasing my creativity and storytelling skills.
+- **[A Vibrant Life](./Media/AVibrantLife.pdf)**: A delightful story for young readers, showcasing my creativity and storytelling skills.
 As part of my creative pursuits, I wrote a children's book titled *A Vibrant Life*. The story focuses on the grief of loss and to appreciate the precious things that you have. It is designed for readers aged 5-12. This project reflects my ability to create engaging, imaginative content for younger audiences.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/roxythe-harding/)
-- [Email](mailto:roxythelharding@gmail.com)
+- [Email: roxythelharding@gmail.com](mailto:roxythelharding@gmail.com)
 
 # Technical Skills
 
@@ -54,7 +55,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Java
 
 ## Game Development
-- Unreal Engine (self-taught)
+- Unreal Engine
 - Unity Engine
 - Level Design
 - Visual Scripting
@@ -77,6 +78,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
