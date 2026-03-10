@@ -9,7 +9,8 @@ During my time in the **United States Air Force**, I received multiple commendat
 - Qualified as an **Expert Marksman**.
 - Earned the **Airman of the Quarter Award** twice while working in two different squadrons.
 - Awarded twice by my commander in **Okinawa** and **Alconbury** for exceptional work that went above and beyond military standards.
-- ![Airforce Award](./Media/AotQ.jpg)
+  
+![Airforce Award](./Media/AotQ.jpg)
 
 While working in the Air Force, I refined my skills in **communication, teamwork, and leadership**. There were many times where I experienced firsthand how proper communication could make a profound difference in the efficiency of completing projects in a timely manner. Poor communication often led to confusion and created setbacks that could have been easily avoided with clarification. I had the good fortune of learning from leaders with over a decade of experience who chose to lead by example and were eager to share their knowledge to help subordinates grow into outstanding future leaders. While the military lifestyle was not something I was interested in following for a 20-year career, I have never regretted my decision to serve. I will cherish the valuable lessons I learned throughout my service and apply them to my future endeavors to be the best that I can be in my industry.
 
@@ -34,6 +35,7 @@ While working in the Air Force, I refined my skills in **communication, teamwork
   - Experience with **C++, C#, My SQL, and Java coding language**.
   - Self-taught in **Unreal Engine**.
   - Self-taught in **Unity Engine**.
+
 
 
 
