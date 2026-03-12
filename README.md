@@ -7,6 +7,10 @@ Over the years, I’ve gained experience in various industries while pursuing ed
 
 Experienced and avid video game player. I have been playing video games since I was 5 years old and have owned/played every video game system since the original NES. I play games from every genre but I would say my favorites are generally RPG/JRPGs. I have over 10,000 hours played on my steam account alone which doesn't factor in any of the time spent on the other consoles I've owned over my life time or even the thousands of hours I've spent on games like World of Warcraft, Overwatch, or Hearthstone.
 
+## Resume
+**[Download My Resume Here](RoxytheHarding_Resume2026.pdf)**
+*Last Updated 3/12/2026*
+
 ![Settings Screen](./Media/SteamAccount.PNG)
 
 ## Featured Projects
@@ -78,6 +82,7 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Leadership and teamwork
 - Communication
 - Adaptability
+
 
 
 
