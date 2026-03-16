@@ -15,20 +15,22 @@ Experienced and avid video game player. I have been playing video games since I 
 
 ## Featured Projects
 - [Tetrabeasts Itch Download](https://rockhardamusement.itch.io/tetrabeasts): An ongoing solo project in devleopment. Tetrabeasts is a Puzzle-Arcade roguelite with tetris base mechanics that I have been building up in my free time as a solo developer passion project using Unity. *Still in development*
+  ![Tetrabeasts](./Media/TetraBeasts.PNG)
 - [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): This is my most recent project. It is a Puzzle-Arcade sorting game that was made over 4 weeks with two of my classmates in Unreal Engine 5.6. *Still in development*
+  ![Sweet Treat Factory](./Media/SweetTreatFactory.PNG)
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API. Made over the course of a single month with two other classmates.
+  ![Arcane Invaders](./Media/ArcaneInvaders.png)
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
 - [Game of Life](https://github.com/Roxythe/GameOfLife): A simulation of Conway's Game of Life, showcasing algorithm implementation in C++.
 - [Calculator App](https://github.com/Roxythe/Calculator_App): A basic calculator application using wxWidgets in C++.
 - [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter game made in a single month with Unity as my first collaborative project.
 
 ## Media
-- [Arcane Invaders Demo](https://youtu.be/6Tyz5VY1B9U): A short demo of my game Arcane Invaders, a reskin of the classic Space Invaders.
-- [Map 1 Demo](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
-- [Map 2 Demo](https://youtu.be/GQODAAfSKQY): Another Unreal Engine map showcasing my level design skills.
-- [Calculator App Demo](https://youtube.com/shorts/52UYw7cDynw?feature=share): Short showcase demo of my calculator app.
-- [Game of Life App Demo](https://youtube.com/shorts/NMT-eRCL6Uo?feature=share): Short showcase demo of my Game of Life app.
-- [Random Level Generator App Demo](https://youtu.be/iyXms6ZvKIk): Short showcase demo of my Random Level Generator app.
+- [UE5 Map Video Demo 1](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
+- [UE5 Map Video Demo 2](https://youtu.be/GQODAAfSKQY): Another Unreal Engine map showcasing my level design skills.
+- [Calculator App Video Demo](https://youtube.com/shorts/52UYw7cDynw?feature=share): Short showcase demo of my calculator app.
+- [Game of Life App Video Demo](https://youtube.com/shorts/NMT-eRCL6Uo?feature=share): Short showcase demo of my Game of Life app.
+- [Random Level Generator App Video Demo](https://youtu.be/iyXms6ZvKIk): Short showcase demo of my Random Level Generator app.
 
 ## Links
 - [Personal Game Studio YouTube](https://www.youtube.com/@RockHardAmusement): A link to my personal game dev studio's YouTube channel showing first look developments on my current projects.
