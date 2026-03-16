@@ -11,7 +11,7 @@ Experienced and avid video game player. I have been playing video games since I 
 
 ## Resume
 **[Download My Resume Here](RoxytheHarding_Resume2026.pdf)**
-*Last Updated 3/12/2026*
+*Last Updated 3/16/2026*
 
 ## Featured Projects
 - [Tetrabeasts Itch Download](https://rockhardamusement.itch.io/tetrabeasts): An ongoing solo project in devleopment. Tetrabeasts is a Puzzle-Arcade roguelite with tetris base mechanics that I have been building up in my free time as a solo developer passion project using Unity. *Still in development*
@@ -62,6 +62,9 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Unity Engine
 - Level Design
 - Visual Scripting
+- System Mechanics
+- UX Design
+- Sprite Animation
 
 ## Tools
 - Git and GitHub
@@ -73,14 +76,21 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - Gateware
 - ENTT
 
+## Editing Software
+- GIMP/Photoshop
+- Audacity
+- DaVinci Resolve
+
 ## Project Management Methodologies
 - Experience with Waterfall
 - Experience with AGILE
 
 ## Soft Skills
 - Leadership and teamwork
-- Communication
+- Interpersonal Communication
 - Adaptability
+- Creative Problem Solving
+- Time Management
 
 
 
