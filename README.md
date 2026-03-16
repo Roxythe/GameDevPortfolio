@@ -5,7 +5,7 @@ Welcome to my portfolio repository! Here, you’ll find an overview of my skills
 Over the years, I’ve gained experience in various industries while pursuing education to refine my skills. From earning commendations in the U.S. Air Force to developing maps in Unreal Engine, I’m committed to excelling in my field.
 [Read More](./About_Me.md)
 
-Experienced and avid video game player. I have been playing video games since I was 5 years old and have owned/played every video game system since the original NES. I play games from every genre but I would say my favorites are generally RPG/JRPGs. I have over 10,000 hours played on my steam account alone which doesn't factor in any of the time spent on the other consoles I've owned over my life time or even the thousands of hours I've spent on games like World of Warcraft, Overwatch, or Hearthstone.
+Experienced and avid video game player. I have been playing video games since I was 5 years old and have owned/played every video game system since the original NES. I play games from every genre but I would say my favorites are generally RPG/JRPGs and Roguelites. I have over 10,000 hours played on my steam account alone which doesn't factor in any of the time spent on the other consoles I've owned over my life time or even the thousands of hours I've spent on games played through alternative PC launchers like For Honor through Uibisoft's launcher or World of Warcraft, Overwatch, and Hearthstone through Battlenet.
 
 ![Settings Screen](./Media/SteamAccount.PNG)
 
@@ -14,16 +14,16 @@ Experienced and avid video game player. I have been playing video games since I 
 *Last Updated 3/16/2026*
 
 ## Featured Projects
-- [Tetrabeasts Itch Download](https://rockhardamusement.itch.io/tetrabeasts): An ongoing solo project in devleopment. Tetrabeasts is a Puzzle-Arcade roguelite with tetris base mechanics that I have been building up in my free time as a solo developer passion project using Unity. *Still in development*
+- [Tetrabeasts Itch Download](https://rockhardamusement.itch.io/tetrabeasts): My current and ongoing passion project currently in devleopment. I am sole developer working on the game currently and plan to finish it as a solo development project. Tetrabeasts is a Roguelite Puzzle-Arcade game with some limitied deck-building and RPG mechanics fused with tetris base mechanics developed using Unity. *Still in development*
   ![Tetrabeasts](./Media/TetraBeasts.PNG)
-- [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): This is my most recent project. It is a Puzzle-Arcade sorting game that was made over 4 weeks with two of my classmates in Unreal Engine 5.6. *Still in development*
+- [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): Come on down to the Sweet Treat factory and don't forget your insulin pump. This Puzzle-Arcade sorting game was developed in just under 4 weeks with two of my classmates using Unreal Engine 5.6. *Still in development*
   ![Sweet Treat Factory](./Media/SweetTreatFactory.PNG)
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API. Made over the course of a single month with two other classmates.
   ![Arcane Invaders](./Media/ArcaneInvaders.png)
 - [Random Level Generator](https://github.com/Roxythe/RandomLevelGenerator): An independent project I made to practice using SFML library and learning to make my code more modular in C++.
 - [Game of Life](https://github.com/Roxythe/GameOfLife): A simulation of Conway's Game of Life, showcasing algorithm implementation in C++.
 - [Calculator App](https://github.com/Roxythe/Calculator_App): A basic calculator application using wxWidgets in C++.
-- [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter game made in a single month with Unity as my first collaborative project.
+- [Bullet Typhoon Game Prototype](https://github.com/Bucsfanga/BulletTyphoon): Repository link for a First Person Shooter/Platformer game made in a single month with Unity as my first collaborative project.
 
 ## Media
 - [UE5 Map Video Demo 1](https://youtu.be/VP0z5PM8efk): A short demo of a level created in Unreal Engine.
