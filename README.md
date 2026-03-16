@@ -84,8 +84,8 @@ As part of my creative pursuits, I wrote a children's book titled *A Vibrant Lif
 - DaVinci Resolve
 
 ## Project Management Methodologies
-- Experience with Waterfall
-- Experience with AGILE
+- Waterfall
+- AGILE
 
 ## Soft Skills
 - Leadership and teamwork
