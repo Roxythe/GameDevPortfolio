@@ -15,7 +15,7 @@ Experienced and avid video game player. I have been playing video games since I 
 
 ## Featured Projects
 - [Tetrabeasts Steam Store Page](https://store.steampowered.com/app/4695510/Tetrabeasts/): My first shipped game, out now on Steam with an a free demo available. Tetrabeasts was completed as a solo development project that I started a couple months before graduation and released in June, 2026. Tetrabeasts is a Roguelite Puzzle-Arcade game with some limitied deck-building and RPG mechanics fused with falling block base mechanics developed in Unity.
-  ![Tetrabeasts](./Media/TetraBeasts2.PNG)
+  ![Tetrabeasts](./Media/Tetrabeasts2.PNG)
 - [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): Come on down to the Sweet Treat factory and don't forget your insulin pump. This Puzzle-Arcade sorting game was developed in just under 4 weeks with two of my classmates using Unreal Engine 5.6. *Still in development*
   ![Sweet Treat Factory](./Media/SweetTreatFactory.PNG)
 - [Arcane Invaders Itch Download](https://roxythelharding.itch.io/arcane-invaders): A class project I made with two other schoolmates for an assignment. The game is a reskin of space invaders with 3D models. The project was written in C++ via MSCV and uses Vulkan Rendering API. Made over the course of a single month with two other classmates.
