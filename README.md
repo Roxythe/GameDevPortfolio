@@ -14,7 +14,7 @@ Experienced and avid video game player. I have been playing video games since I 
 *Last Updated 3/16/2026*
 
 ## Featured Projects
-- [Tetrabeasts Itch Download](https://rockhardamusement.itch.io/tetrabeasts): My current and ongoing passion project currently in devleopment. I am sole developer working on the game currently and plan to finish it as a solo development project. Tetrabeasts is a Roguelite Puzzle-Arcade game with some limitied deck-building and RPG mechanics fused with tetris base mechanics developed using Unity. *Still in development*
+- [Tetrabeasts Steam Store Page](https://store.steampowered.com/app/4695510/Tetrabeasts/): My first shipped game, out now on Steam with an a free demo available. Tetrabeasts was completed as a solo development project that I started a couple months before graduation and released in June, 2026. Tetrabeasts is a Roguelite Puzzle-Arcade game with some limitied deck-building and RPG mechanics fused with falling block base mechanics developed in Unity.
   ![Tetrabeasts](./Media/TetraBeasts.PNG)
 - [Sweet Treat Factory Itch Download](https://hotfixheroes.itch.io/sweettreatactory): Come on down to the Sweet Treat factory and don't forget your insulin pump. This Puzzle-Arcade sorting game was developed in just under 4 weeks with two of my classmates using Unreal Engine 5.6. *Still in development*
   ![Sweet Treat Factory](./Media/SweetTreatFactory.PNG)
